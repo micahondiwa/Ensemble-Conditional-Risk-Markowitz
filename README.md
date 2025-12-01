@@ -2,6 +2,8 @@
 
 *This is a Capstone project for the [MSc in Financial Engineering at WorldQuant University](https://www.wqu.edu/mscfe)*
 
+- Jupyter Notebook with Complete Code: [Smart_Portfolio_CVaR_Optimization_Complete.ipynb](Smart_Portfolio_CVaR_Optimization_Complete.ipynb)
+
 **In Summary**:  We present a novel approach of jointly foresating covariance matrix and returns using deep ensemble models and feeding the forecasts as inputs to a classical Markowitz model. 
 
 ### **Abstract**
