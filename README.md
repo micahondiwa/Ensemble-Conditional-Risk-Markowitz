@@ -2,7 +2,7 @@
 
 *This is a Capstone project for the [MSc in Financial Engineering WorldQuant University](https://www.wqu.edu/mscfe)*
 
-**In Summary**:  We present a novel approach of jointly foresating covanriance matrix and returns using deep ensemble models and feeding the forecasts as inputs to a classical Markowitz model. 
+**In Summary**:  We present a novel approach of jointly foresating covariance matrix and returns using deep ensemble models and feeding the forecasts as inputs to a classical Markowitz model. 
 
 ### **Abstract**
 
